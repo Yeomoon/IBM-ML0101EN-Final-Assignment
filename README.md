@@ -1,7 +1,10 @@
 # IBM ML0101EN
 ## Final Assignment
 
-Name: Yeomoon Kim
-Nick Name(edX): duans217
-Location: South Korea
-College: KENTECH
+1. Name: Yeomoon Kim
+
+2. Nick Name(edX): duans217
+
+3. Location: South Korea
+
+4. College: KENTECH
